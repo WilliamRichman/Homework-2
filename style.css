@@ -1,0 +1,39 @@
+.heading {
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+}
+
+/* Headings and Backgrounds */
+.headings-back{
+    background-color: #4aaaa5;
+}
+
+/* Regular font color */
+.regular {
+    color: #777777;
+    
+}
+
+/* Main Content*/
+.main-content {
+    background-color: #ffffff ;
+    border-color: #dddddd;
+}
+
+.foot{
+    background-color: #666666;
+}
+
+/* Not Added to page yet!!! */
+.main-header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
