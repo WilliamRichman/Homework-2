@@ -1,13 +1,27 @@
 .heading {
 font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 .container {
 font-family: Arial, Helvetica, sans-serif;
 background-color: #ffffff;
-float: right;
-#index float: left;
+max-width: 960;
+margin: 0 auto;
+padding: 20px;
+border: red;
 
+}
+
+.container:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+img {
+    float: left;
+    margin: 10px;
 }
 
 h1 {
